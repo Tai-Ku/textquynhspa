@@ -1,0 +1,91 @@
+* {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'IBM Plex Sans', sans-serif;
+    box-sizing: border-box;
+
+}
+
+.grid {
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+:root {
+    --black-color: #000000;
+    --white-color: #fff;
+
+
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font: inherit;
+}
+
+body {
+    line-height: 1.5;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+    display: block;
+    max-width: 100%;
+}
+
+input,
+button,
+textarea,
+select {
+    outline: none;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    overflow-wrap: break-word;
+}
+
+.btn {
+    height: 33px;
+    width: 98px;
+    border-radius: 12px;
+    background: #F5A623;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21px;
+    text-align: center;
+    padding: 6px 0;
+    cursor: pointer;
+}
+
+* {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
